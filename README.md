@@ -1,2 +1,16 @@
 # is-it-ai-image
-Deep Learning binary classifier (AI vs. Real) optimized for the web. Features a Keras-trained CNN converted to TensorFlow.js to run model predictions directly in the browser
+
+Public repository maintained by @tototofu123.
+
+## Website
+
+- GitHub Pages: https://tototofu123.github.io/is-it-ai-image/
+
+## Security
+
+- Secret scanning workflow: ".github/workflows/security-secrets-scan.yml"
+- Gitleaks config: ".gitleaks.toml"
+
+## Notes
+
+This repository is configured with GitHub Pages (HTTPS), baseline safety checks, and tracked ignore rules.
